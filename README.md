@@ -3,11 +3,17 @@ Author: Isabella Tannus Correa
 Database containing tweets published at:
 
 Case Elaine Caparroz: between Feb 16, 2009 - Jun 06, 2020
+
 Case Eliza Samúdio: between Oct 13, 2009 - Jun 06, 2020
+
 Case Eloá Cristina: between Oct 13, 2008 - Jun 06, 2020
+
 Case Eva Luana: between Aug 19, 2009 - Jun 06, 2020
+
 Case Mariana Ferrer: between Mai 20, 2009 - Jun 06, 2020
+
 Case Poliana Bagatini: between Feb 24, 2009 - Jun 06, 2020
+
 Case Tatiane Spitzner: between Jul 22, 2009 - Jun 06, 2020
 
 between Jan 24th-Feb 25th, 2017 related to the movies nominated to Best Picture on the 2017 Academy Awards.
