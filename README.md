@@ -26,4 +26,4 @@ I used the tool [GetOldTweets](https://github.com/Jefferson-Henrique/GetOldTweet
 
 You can [read it](https://bellatannus.github.io/pesquisas.html) (in Portuguese) and understand how I used the database in my paper.
 
-**If you use any part of this database, please cite the paper! **
+**If you use any part of this database, please cite the paper!**
